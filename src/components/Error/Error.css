@@ -1,0 +1,43 @@
+.error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-top: 10%;
+}
+
+.error h1:first-of-type {
+  font-size: 60px;
+  color: red;
+  margin-bottom: 20px;
+}
+
+.error h1:last-child {
+  font-size: 42px;
+}
+
+.error article {
+  font-size: 24px;
+  color: red;
+  margin: 20px 0;
+}
+
+.error p:last-child {
+  color: #fff;
+}
+
+.error button {
+  border: none;
+  background-color: red;
+  height: 40px;
+  font-size: 20px;
+  padding: 0px 30px;
+  cursor: pointer;
+  transition: 0.3s all;
+}
+
+.error button:hover {
+  background-color: rgb(224, 43, 43);
+  margin-top: 1px;
+}
