@@ -57,6 +57,7 @@ i.e For the IntersectionObserver and Debounce implementations, libraries could h
 - Lazy Loading:  I made use of lazy loading to reduce the initial load time and conserve bandwidth
 - Absolute Imports: I made use of Absolute Imports as it makes the code cleaner and easier to write, makes it easy to locate a file or component imported due to absolute positioning, and removes the unneccessary need for `../../../`.
 -  Clean app folder structure/architecture
+-  Responsiveness for mobile phones
 
 ### Time Spent
 - Approximately 12 hours
